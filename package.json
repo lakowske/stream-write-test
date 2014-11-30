@@ -2,7 +2,7 @@
   "name": "stream-write-test",
   "version": "0.0.1",
   "description": "Tests utf8 stream chunks against expected stream chunks using tape",
-  "main": "WriteTest.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
