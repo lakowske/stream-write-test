@@ -30,3 +30,5 @@ WriteTest.prototype._write = function(chunk, enc, callback) {
     this.pos += 1;
     callback();
 }
+
+module.exports = WriteTest;
