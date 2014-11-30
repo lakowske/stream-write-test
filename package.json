@@ -1,0 +1,29 @@
+{
+  "name": "stream-write-test",
+  "version": "0.0.1",
+  "description": "Tests utf8 stream chunks against expected stream chunks using tape",
+  "main": "WriteTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakowske/stream-write-test"
+  },
+  "keywords": [
+    "stream",
+    "writeable",
+    "test",
+    "chunks",
+    "testing",
+    "string",
+    "utf8",
+    "tape"
+  ],
+  "author": "Seth Lakowske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lakowske/stream-write-test/issues"
+  },
+  "homepage": "https://github.com/lakowske/stream-write-test"
+}
