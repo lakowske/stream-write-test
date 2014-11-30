@@ -1,4 +1,10 @@
 /*
+ * (C) Seth Lakowske
+ */
+var util = require('util');
+var Writable = require('stream').Writable;
+
+/*
  * WriteTest checks each write chunk against the expected write chunk
  * and throws error messages if they are not strictly equal.
  *
